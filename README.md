@@ -1,3 +1,5 @@
+This project is an Haskell api made with haskell-servant and based on the example-servant-minimal repository
+
 This is a very minimal example of a project that uses
 
 - `servant` to specify a REST API,
